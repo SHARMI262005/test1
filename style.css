@@ -16,12 +16,12 @@ body {
 }
 
 h1 {
-    color: #333;
+    color: #eab7b7;
 }
 
 button {
     padding: 10px 20px;
-    background-color: #007BFF;
+    background-color: #212529;
     color: white;
     border: none;
     border-radius: 5px;
@@ -29,5 +29,5 @@ button {
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #117ef2;
 }
